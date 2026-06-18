@@ -30,6 +30,7 @@ The Tutorial folder has 2 main Folders.
   - [AI launchpad](https://github.com/SAP-samples/ai-core-samples/tree/main/05_AI_launchpad)
   - [Cloud Connector Demo](https://github.com/SAP-samples/ai-core-samples/tree/main/06_Cloud_Connector_Demo)
   - [Scripts](https://github.com/SAP-samples/ai-core-samples/tree/main/07_Scripts)
+  - [SAP AI SDK Tutorial](https://github.com/SAP-samples/ai-core-samples/tree/main/12_sap_ai_sdk_tutorial) — step-by-step Generative AI Hub / SAP Cloud SDK for AI (Python) learning path
   
 ## License
 

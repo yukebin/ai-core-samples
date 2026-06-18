@@ -1,0 +1,8 @@
+{
+  "AICORE_AUTH_URL": "https://YOUR_SUBDOMAIN.authentication.sap.hana.ondemand.com",
+  "AICORE_CLIENT_ID": "YOUR_CLIENT_ID",
+  "AICORE_CLIENT_SECRET": "YOUR_CLIENT_SECRET",
+  "AICORE_RESOURCE_GROUP": "YOUR_RESOURCE_GROUP",
+  "AICORE_BASE_URL": "https://api.ai.YOUR_REGION.cfapps.sap.hana.ondemand.com/v2",
+  "ORCH_DEPLOYMENT_URL": "https://YOUR_ORCHESTRATION_DEPLOYMENT_URL"
+}

@@ -1,0 +1,8 @@
+# Local AI Core and notebook credentials
+.aicore-config.json
+.user.ini
+.env
+.env.*
+
+# Sample-specific credential files
+09_BusinessAIWeek/files/config.json
